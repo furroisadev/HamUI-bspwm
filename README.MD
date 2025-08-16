@@ -1,11 +1,5 @@
-# BSPWM rice dotfiles 1
-
-A minimal but sleek X11 rice using **bspwm**, **picom**, **polybar**, and **pywal** with a purple starry aesthetic. Designed to work without a display manager (no LightDM), and confirmed to work with AMD cards using the `amdgpu` driver.
-
-For legal reasons, heres the link to the origianal wallpaper thats included https://4kwallpapers.com/cars/porsche-718-cayman-12180.html
-Im new to git sothis is kinda like my learning thing aswell
----
-
+# HamUI bspwm "rice"
+setup for my ham devices that use linux
 ## 🔧 Dependencies
 
 Install the following packages:
